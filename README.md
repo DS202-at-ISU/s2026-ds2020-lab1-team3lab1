@@ -27,10 +27,17 @@
 
 **12.6** - Saw changes!
 
+***Scott Engstrom***
 
-**Scott Engstrom**
+**12.2** - Accessed the repo
 
-testing
+**12.3** - Cloned link of repo
+
+**12.4** - Test line from RStudio!
+
+**12.5** - Learned how to push changes
+
+**12.6** - Changes seen
 
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
@@ -45,24 +52,3 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
-HEAD
-
-#Favour Forchu
-This is a line from RStudio
-HEAD
-
-
-## step 12.2
-- Found git repo
-
-## step 12.3
-- Cloned git repo
-
-## step 12.4
-- Edited readme file
-
-## step 12.5
-- Commited and pushed changes
-## step 12.6
-- Checked repo to confirm changes
-
