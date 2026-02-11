@@ -7,7 +7,7 @@
 
 **12.2** - Got the repo
 
-**12.3-** Cloned the repo
+**12.3** - Cloned the repo
 
 **12.4** - This line is from RStudio!
 
@@ -15,7 +15,17 @@
 
 **12.6** - I saw my changes in github
 
-\#Nina Fontanella Testing line from RStudio!
+***Nina Fontanella***
+
+**12.2** - Access to the repo
+
+**12.3** - Cloned link of repo
+
+**12.4** - Testing line from RStudio!
+
+**12.5** - Learned how to push changes
+
+**12.6** - Saw changes!
 
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
