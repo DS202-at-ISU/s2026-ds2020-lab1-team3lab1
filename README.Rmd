@@ -1,9 +1,11 @@
 ---
 output: github_document
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -11,16 +13,30 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Lab report #1
 
+***Amelia Humphrey***
 
-#Amelia Humphrey
-This line is from RStudio!
+**12.2** - Got the repo
 
-#Nina Fontanella
-Testing line from RStudio!
+**12.3-** Cloned the repo
 
-Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
+**12.4** - This line is from RStudio!
 
-Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.  
+**12.5** - I pushed changes
 
-All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
-Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+**12.6** - I saw my changes in github
+
+#Nina Fontanella Testing line from RStudio!
+
+Follow the instructions posted at
+<https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
+work is meant to be finished during the lab time, but you have time
+until Monday evening to polish things.
+
+Include your answers in this document (Rmd file). Make sure that it
+knits properly (into the md file). Upload both the Rmd and the md file
+to your repository.
+
+All submissions to the github repo will be automatically uploaded for
+grading once the due date is passed. Submit a link to your repository on
+Canvas (only one submission per team) to signal to the instructors that
+you are done with your submission.
