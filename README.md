@@ -52,3 +52,27 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+Favour Forchu
+
+*This is a line from RStudio*
+
+*\##step 12.2*
+
+Found git repo
+
+\## step 12.3
+
+*Cloned git repo*
+
+*\## step 12.4*
+
+Edited readme file
+
+\## step 12.5
+
+*Commited and pushed changes*
+
+*\## step 12.6*
+
+Checked repo to confirm changes
