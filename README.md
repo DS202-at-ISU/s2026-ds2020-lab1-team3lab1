@@ -27,6 +27,11 @@
 
 **12.6** - Saw changes!
 
+
+**Scott Engstrom**
+
+testing
+
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
 work is meant to be finished during the lab time, but you have time
